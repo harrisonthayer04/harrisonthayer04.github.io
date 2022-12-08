@@ -5,7 +5,7 @@ This is my home page! My name is Harrison Thayer and I am a student at [Cal Stat
 ## Computer Science Projects
 
 My GitHub page is http://github.com/harrisonthayer04.
-
+ 
 ### CPSC 120
 
 * Lab 5
